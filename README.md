@@ -1,5 +1,5 @@
 # Tugas-Vito
-# 📚 Tugas Pengembangan Web & Analisis Nutrisi
+# 📚 Tugas Pengembangan Web, Analisis Nutrisi & Tanaman Padi Sumatera
 
 Repositori ini berisi kumpulan tugas individu dari pertemuan 1 hingga 7 untuk mata kuliah terkait pengembangan web dan pengolahan data nutrisi.
 
