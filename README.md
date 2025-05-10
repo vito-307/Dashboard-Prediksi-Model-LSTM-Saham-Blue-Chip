@@ -14,14 +14,16 @@ Repositori ini berisi kumpulan tugas individu dari pertemuan 1 hingga 7 untuk ma
 
 ## 📝 Daftar Tugas
 
-| Pertemuan | Judul Tugas                    | File                                                |
-|-----------|--------------------------------|-----------------------------------------------------|
-| 2         | Data Excel Nutrisi             | `Tugas_Pertemuan_2.xlsx`                            |
-| 3         | Tugas Nutrisi                  | `Tugas_pertemuan3_maulana_rizki_saputra.ipynb`     |
-| 4         | Layout Web App Colab           | `Layout_Aplikasi_Web_Colab_Pertemuan_4.ipynb`      |
-| 5         | Web Nutrisi                    | `tugas_nutrisi_web_pertemuan_5.ipynb`              |
-| 6         | Aplikasi Web Nutrisi           | `Tugas_membuat_aplikasi_web_pert_6.ipynb`          |
-| 7         | Streamlit Nutrisi Web          | `tugas_web_berbasis_streamlit_pertemuan_7.ipynb`   |
+| Pertemuan | Judul Tugas                    | File                                               |
+|-----------|--------------------------------|----------------------------------------------------|
+| 1         | Dataset & Jurnal Referensi     | `Dataset`                                          |
+| 2         | Membuat halaman web            | `ML_P2_P7.ipynb`                                   |
+| 3         | Halaman input & Tampil output  | `ML_P2_P7.ipynb`                                   |
+| 4         | Layout aplikasi organisasi     | `ML_P2_P7.ipynb`                                   |
+| 5         | Membuat tab dalam web          | `ML_P2_P7.ipynb`                                   |
+| 6         | Membuat grafik dalam web       | `ML_P2_P7.ipynb`                                   |
+| 7         | Membuat dashboard interaktif   | `ML_P2_P7.ipynb`                                   |
+
 
 ---
 
