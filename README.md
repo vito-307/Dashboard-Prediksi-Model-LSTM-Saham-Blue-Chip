@@ -8,6 +8,7 @@ Repositori ini berisi kumpulan tugas individu dari pertemuan 1 hingga 7 untuk ma
 ## 📁 Struktur Folder
 ├── pertemuan-1/ # hasil tugas pertemuan 1
 ├── pertemuan 2-7 # hasil tugas pertemuan 2-7
+├── UAS # Jurnal Web Prediksi
 └── README.md # Dokumentasi repositori
 
 ---
@@ -26,6 +27,12 @@ Repositori ini berisi kumpulan tugas individu dari pertemuan 1 hingga 7 untuk ma
 
 
 ---
+
+## 📝 Daftar Tugas
+
+| Pertemuan | Judul Tugas                    | File                                               |
+|-----------|--------------------------------|----------------------------------------------------|
+| UAS       | Pembuatan Jurnal               | `Jurnal_Web`                                       |
 
 ## 🔍 Catatan
 
