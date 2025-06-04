@@ -1,15 +1,7 @@
 # Tugas-Vito
-# 📚 Tugas Pengembangan Web, Analisis Nutrisi & Tanaman Padi Sumatera
+# 📚 Tugas Pengembangan Web Analisis Nutrisi, Tanaman Padi Sumatera & Projek Pengembangan Web Prediksi Saham Blue Chip
 
 Repositori ini berisi kumpulan tugas individu dari pertemuan 1 hingga 7 untuk mata kuliah terkait pengembangan web dan pengolahan data nutrisi.
-
----
-
-## 📁 Struktur Folder
-├── pertemuan-1/ # hasil tugas pertemuan 1
-├── pertemuan 2-7 # hasil tugas pertemuan 2-7
-├── UAS # Jurnal Web Prediksi
-└── README.md # Dokumentasi repositori
 
 ---
 
