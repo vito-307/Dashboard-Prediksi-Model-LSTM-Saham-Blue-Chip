@@ -28,11 +28,14 @@ Repositori ini berisi kumpulan tugas individu dari pertemuan 1 hingga 7 untuk ma
 
 ---
 
-## 📝 Daftar Tugas
+## 📝 Daftar Folder UAS
 
-| Pertemuan | Judul Tugas                    | File                                               |
-|-----------|--------------------------------|----------------------------------------------------|
-| UAS       | Pembuatan Jurnal               | `Jurnal_Web`                                       |
+| Folder        | Isi Folder                                                        |
+|---------------|-------------------------------------------------------------------|
+| Jurnal        | Pembuatan Jurnal                                                  |
+| Model         | Script model.keras & scaler.joblib model                          |
+| UI-Streamlit  | Script UI Streamlit, loading model dan requirements               |
+| Modelling     | Script preprocessing, modelling dan scaller                       |
 
 ## 🔍 Catatan
 
