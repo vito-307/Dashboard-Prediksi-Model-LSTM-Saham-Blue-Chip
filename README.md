@@ -16,7 +16,7 @@ Repositori ini berisi hasil pengembangan model prediksi deep learning LSTM untuk
 
 ## 🔍 Catatan
 
-- Semua proyek dikembangkan menggunakan **Google Colab (.ipynb)**.
+- Semua proyek dikembangkan menggunakan **Google Colab (.ipynb) dan Visual Studio Code**.
 - Beberapa tugas menggunakan **Streamlit** untuk membangun aplikasi web interaktif.
 
 ---
