@@ -1,22 +1,7 @@
 # Tugas-Vito
-# 📚 Tugas Pengembangan Web Analisis Nutrisi, Tanaman Padi Sumatera & Projek Pengembangan Web Prediksi Saham Blue Chip
+# 📚 Projek Pengembangan Web Prediksi Saham Blue Chip Model LSTM
 
-Repositori ini berisi kumpulan tugas individu dari pertemuan 1 hingga 7 untuk mata kuliah terkait pengembangan web dan pengolahan data nutrisi.
-
----
-
-## 📝 Daftar Tugas
-
-| Pertemuan | Judul Tugas                    | File                                               |
-|-----------|--------------------------------|----------------------------------------------------|
-| 1         | Dataset & Jurnal Referensi     | `Dataset`                                          |
-| 2         | Membuat halaman web            | `ML_P2_P7.ipynb`                                   |
-| 3         | Halaman input & Tampil output  | `ML_P2_P7.ipynb`                                   |
-| 4         | Layout aplikasi organisasi     | `ML_P2_P7.ipynb`                                   |
-| 5         | Membuat tab dalam web          | `ML_P2_P7.ipynb`                                   |
-| 6         | Membuat grafik dalam web       | `ML_P2_P7.ipynb`                                   |
-| 7         | Membuat dashboard interaktif   | `ML_P2_P7.ipynb`                                   |
-
+Repositori ini berisi hasil pengembangan model prediksi deep learning LSTM untuk beberapa emiten saham Blue Chip 
 
 ---
 
