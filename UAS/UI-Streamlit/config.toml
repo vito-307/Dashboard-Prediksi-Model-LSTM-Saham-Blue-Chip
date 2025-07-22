@@ -1,0 +1,15 @@
+[theme]
+# Warna utama untuk widget interaktif (misalnya, slider, tombol).
+# Pilih warna yang kontras dan terlihat bagus dengan latar belakang biru dongker.
+# Contoh: Oranye, Kuning muda, atau bahkan putih.
+primaryColor="#FFA500"  # Oranye sebagai contoh warna aksen
+
+# Warna latar belakang utama aplikasi Anda.
+backgroundColor="#002366"  # Kode Hex untuk Navy Blue standar
+
+# Warna latar belakang untuk elemen sekunder seperti sidebar, expander, dll.
+# Biasanya sedikit lebih gelap atau lebih terang dari backgroundColor utama.
+secondaryBackgroundColor="#171717"  # Biru dongker yang sedikit lebih gelap
+
+# Warna teks utama. Harus kontras dengan backgroundColor.
+textColor="#FFFFFF"  # Putih agar mudah dibaca di atas biru dongker
